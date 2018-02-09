@@ -7,6 +7,7 @@ using System.Web.Mvc;
 namespace GitDemo.Controllers
 {
     //Test
+    //Test2
     public class HomeController : Controller
     {
         public ActionResult Index()
